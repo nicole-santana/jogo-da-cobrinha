@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+}
+
+#cobrinha-container {
+ 
+      bottom: 10px;
+      right: 10px;
+      z-index: 9999;
+  }
+
+#cobrinha-canvas {
+  
+    background-color: #132108;
+      border-radius: 8px;
+  }
